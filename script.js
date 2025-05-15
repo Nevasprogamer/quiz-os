@@ -9,7 +9,7 @@ const quizData = [
     { question: "Какую ОС разработала компания Google для смартфонов?", options: ["а) iOS", "б) Android", "в) Tizen"], correctAnswer: 1 },
     { question: "Какая ОС не имеет графического интерфейса по умолчанию?", options: ["а) Windows", "б) Linux (многие серверные версии)", "в) macOS"], correctAnswer: 1 },
     { question: "Какая ОС используется в умных часах (например, Samsung Galaxy Watch)?", options: ["а) Wear OS", "б) iOS", "в) Windows Mobile"], correctAnswer: 0 },
-    { question: "Какая ОС подходит для программистов и разработчиков? (возможно несколько вариантов)", options: ["а) Windows", "б) Linux", "в) macOS"], correctAnswer: [1, 2] },
+    { question: "Какая ОС подходит для программистов и разработчиков?", options: ["а) Windows", "б) Linux", "в) macOS"], correctAnswer: [1, 2] },
     { question: "Какая ОС раньше называлась 'Windows Phone'?", options: ["а) Android", "б) Windows Mobile", "в) KaiOS"], correctAnswer: 1 },
 ];
 
